@@ -1,0 +1,1 @@
+tagSearchIndex = [{"l":"科系1 英文","h":"class com.sb.B","d":"Section","u":"com/sb/B.html#-1--heading"},{"l":"科系1 國文","h":"class com.sb.A","d":"Section","u":"com/sb/A.html#-1--heading"},{"l":"學生表1","h":"class com.sa.Student","d":"Section","u":"com/sa/Student.html#-1-heading"}];updateSearchResults();
