@@ -28,6 +28,7 @@
 
 ![圖1](img/newtote_704x928.png)</a>
 ![圖2](img/BottleG.jpg)</a>
+![圖3](img/pineapple.jpg)</a>
 
 <ul type="disk">
 <li>台北捷運板南線</li>
